@@ -1,0 +1,41 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.manhwa-item {
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 15px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+.manhwa-title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #444;
+}
+
+.manhwa-genre {
+    font-style: italic;
+    color: #888;
+}
+
+.manhwa-description {
+    margin-top: 10px;
+    color: #555;
+}
